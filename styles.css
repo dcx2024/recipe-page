@@ -1,0 +1,47 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+    justify-content: center;
+    width: 50vw;
+
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right:auto;
+   
+}
+
+div{
+    background-color: white;
+    padding: 2vw;
+    border-radius: 15px;
+}
+
+
+.justify-content{
+    justify-content: center;
+}
+.border{
+    border: 1px solid white;
+}
+
+.rounded-edges{
+    border-radius: 20px;
+}
+.width{
+width: 45vw;
+}
+
+.padding-img{
+}
+.py-10{
+    padding: 10px;
+}
+span{
+    
+}
+
+.px-10{
+    padding: 0 2vw 0 2vw;
+}
+.p-left{
+    padding-left: 10px;
+}
