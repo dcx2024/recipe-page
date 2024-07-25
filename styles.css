@@ -30,13 +30,9 @@ div{
 width: 45vw;
 }
 
-.padding-img{
-}
+
 .py-10{
     padding: 10px;
-}
-span{
-    
 }
 
 .px-10{
@@ -44,4 +40,19 @@ span{
 }
 .p-left{
     padding-left: 10px;
+}
+
+@media(max-width:500px){
+    h1{
+        font-size: 20px;
+    }
+
+    .recipe{
+        width: 70vw;
+        margin-right: 10vw;
+    }
+
+    body{
+        width: 75vw
+    }
 }
